@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1001016218343",
+    "firebase_url": "https://zellanything-353f8-default-rtdb.firebaseio.com",
+    "project_id": "zellanything-353f8",
+    "storage_bucket": "zellanything-353f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001016218343:android:74ef53db65d4ce0491c842",
+        "android_client_info": {
+          "package_name": "com.ecommerce.zellanything"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1001016218343-3ujv7k6dm8uvk8ck6jc510cs3i0n21fq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTN71-9fkM4NU-sSGgy_xBx9ZUCJdqxrY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1001016218343-3ujv7k6dm8uvk8ck6jc510cs3i0n21fq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001016218343:android:780284dd3fbad9f991c842",
+        "android_client_info": {
+          "package_name": "com.zellanything.zellanything"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1001016218343-3ujv7k6dm8uvk8ck6jc510cs3i0n21fq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTN71-9fkM4NU-sSGgy_xBx9ZUCJdqxrY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1001016218343-3ujv7k6dm8uvk8ck6jc510cs3i0n21fq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
